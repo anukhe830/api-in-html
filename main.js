@@ -62,3 +62,7 @@ const getData = async function(){
 
 getData()
 
+document.body.style.width = '100vw'
+document.body.style.display = 'flex'
+document.body.style.justifyContent = 'center'
+document.body.style.alignItems = 'center'
